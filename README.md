@@ -51,8 +51,8 @@ STEP 11:Print the accuracy<BR>
 # PROGRAM:
 ```py
 
-#  Developed by : MOHAMED ROSHAN S
-#  Reg.No : 212222040101
+#  Developed by : ARSHAD AHMED M
+#  Reg.No : 212222040014
 import numpy as np                                                      
 import pandas as pd                                                     
 import matplotlib.pyplot as plt
