@@ -1,5 +1,5 @@
-<H3>Name : MOHAMED ROSHAN S</H3>
-<H3>Register no : 212222040101</H3>
+<H3>Name : ARSHAD AHMED M</H3>
+<H3>Register no : 212222040014</H3>
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
 <h2>Implementation of Perceptron for Binary Classification</h2>
